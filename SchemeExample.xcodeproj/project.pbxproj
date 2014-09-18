@@ -457,6 +457,7 @@
 				5FB62A7F19CB0A6F00D594F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5FB62A8019CB0A6F00D594F6 /* Build configuration list for PBXNativeTarget "SchemeExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +466,7 @@
 				5FB62A8219CB0A6F00D594F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

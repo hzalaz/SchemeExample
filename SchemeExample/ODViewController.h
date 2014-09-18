@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface ODViewController : UIViewController
-
+@property (weak, nonatomic) IBOutlet UILabel *label;
+@property (weak, nonatomic) IBOutlet UITextField *field;
+- (IBAction)openInSafari:(id)sender;
 @end
